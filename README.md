@@ -1,1 +1,1 @@
-# RISC-V-Pipeline
+# RISC-V Single Cycle Core
