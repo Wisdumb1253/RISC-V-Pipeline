@@ -1,3 +1,4 @@
+`timescale 1ns / 1ps
 module Register(clk,rst,WE3,WD3,A1,A2,A3,RD1,RD2);
 
 	input clk,rst,WE3;
