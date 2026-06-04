@@ -1,3 +1,4 @@
+`timescale 1ns / 1ps
 module Control_Unit(Op,RegWrite,ImmSrc,ALUSrc,MemWrite,ResultSrc,Branch,funct3,funct7,ALUControl);
 
     input [6:0]Op,funct7;
