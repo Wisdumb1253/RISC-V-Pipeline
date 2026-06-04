@@ -1,3 +1,4 @@
+`timescale 1ns / 1ps
 module Main_Decoder(Op,RegWrite,ImmSrc,ALUSrc,MemWrite,ResultSrc,Branch,ALUOp);
     input [6:0]Op;
     output RegWrite,ALUSrc,MemWrite,ResultSrc,Branch;
