@@ -1,3 +1,4 @@
+`timescale 1ns / 1ps
 module ALU(A,B,Result,ALUControl,OverFlow,Carry,Zero,Negative);
 
     input [31:0]A,B;
