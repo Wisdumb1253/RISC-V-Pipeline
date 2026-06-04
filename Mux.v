@@ -1,3 +1,4 @@
+`timescale 1ns / 1ps
 module Mux (a, b, s, c);
   input [31:0] a, b;
   input s;
