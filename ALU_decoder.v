@@ -1,3 +1,4 @@
+`timescale 1ns / 1ps
 module ALU_Decoder(ALUOp,funct3,funct7,op,ALUControl);
 
     input [1:0]ALUOp;
